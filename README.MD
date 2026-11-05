@@ -59,4 +59,4 @@ Praticar conceitos fundamentais de desenvolvimento web, especialmente o consumo 
 
 ---
 
-Desenvolvido por em aula
+Desenvolvido na aula de Web Dev
